@@ -1,0 +1,42 @@
+Shape: (964, 20)
+
+Columns:
+Index(['property_name', 'property_type', 'society', 'price', 'price_per_sqft',
+       'area', 'areaWithType', 'bedRoom', 'bathroom', 'balcony',
+       'additionalRoom', 'address', 'floorNum', 'facing', 'agePossession',
+       'nearbyLocations', 'description', 'furnishDetails', 'features',
+       'rating'],
+      dtype='str')
+
+Data Types:
+property_name          str
+property_type          str
+society                str
+price              float64
+price_per_sqft     float64
+area               float64
+areaWithType           str
+bedRoom              int64
+bathroom             int64
+balcony                str
+additionalRoom         str
+address                str
+floorNum           float64
+facing                 str
+agePossession          str
+nearbyLocations        str
+description            str
+furnishDetails         str
+features               str
+rating                 str
+dtype: object
+
+
+
+--- DATA PREPROCESSING STEPS ---
+1. Missing values handled (median for numerical, mode for categorical)
+2. Duplicates removed
+3. Label Encoding applied to categorical variables
+4. Outliers handled using IQR clipping
+5. Feature scaling using StandardScaler
+6. Train-test split (80-20)

@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# VS Code
+.vscode/
+**/.vscode/
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Environment variables
+.env
+.env.*
+
+# Temporary files
+backend/uploads/
+backend/downloads/
+backend/predictions.db
