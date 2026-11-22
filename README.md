@@ -128,10 +128,10 @@ GitHub: https://github.com/anuanusha3531-ux
 ## Application Screenshots
 
 ### 1. Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](./screenshots/homepage.png)
 
 ### 2. House Price Prediction
-![Prediction Page](screenshots/prediction.png)
+![Prediction Page](./screenshots/prediction.png)
 
 ### 3. Analytics Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](./screenshots/Dashboard.png)
