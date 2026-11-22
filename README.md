@@ -125,13 +125,17 @@ The `model_outputs/` and `outputs/` directories contain model evaluation artifac
 MCA Graduate | Python Developer | Data Analytics & Machine Learning Enthusiast
 
 GitHub: https://github.com/anuanusha3531-ux
+
 ## Application Screenshots
 
 ### 1. Home Page
+
 ![Home Page](./screenshots/homepage.png)
 
 ### 2. House Price Prediction
+
 ![Prediction Page](./screenshots/prediction.png)
 
 ### 3. Analytics Dashboard
+
 ![Dashboard](./screenshots/Dashboard.png)
